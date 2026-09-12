@@ -1,2 +1,2 @@
 # New-project-in-demo
-This my first project
+This is my first project
